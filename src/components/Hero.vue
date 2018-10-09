@@ -1,13 +1,6 @@
 <template>
   <v-parallax :src="getImgUrl('dam3.jpg')">
-    <v-layout
-      column
-      align-center
-      justify-center
-      class="white--text"
-    >
-      
-    </v-layout>
+    
   </v-parallax>
 </template>
 

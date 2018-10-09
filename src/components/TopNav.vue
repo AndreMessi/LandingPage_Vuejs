@@ -2,8 +2,7 @@
   <v-toolbar app class="white">
     <v-spacer class="hidden-sm-and-up brand-spacer"/>
     <v-toolbar-title class="text-xs-center brand-logo">
-      <h1>logo</h1>
-      <!-- <v-icon x-large class="primary--text hidden-sm-and-down brand-icon">filter_hdr</v-icon>ISLAND<span class="blue--text text--darken-3 accented-text">Civil</span> -->
+      <span class="blue--text text--darken-3 accented-text">RantauOne</span>
     </v-toolbar-title>
     <v-spacer/>
     <v-toolbar-items class="hidden-xs-only">

@@ -1,13 +1,11 @@
 <template>
-  <v-container text-xs-center>
-    <v-divider></v-divider>
+  <v-container text-xs-center mt-2>
     <v-layout>
-      <v-flex xs12 sm10 offset-sm1 md6 offset-md3>
-        <v-container>
-          
-        </v-container>
+      <v-flex>
+        <h1>tes </h1>
       </v-flex>
     </v-layout>
+    <v-divider/>
   </v-container>
 </template>
 

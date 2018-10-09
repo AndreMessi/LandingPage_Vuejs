@@ -1,6 +1,5 @@
 <template>
   <v-container grid-list-md text-xs-center>
-    <v-divider class="footer-divider"></v-divider>
     <v-layout row wrap class="footer-text">
       <v-flex xs12><p>&copy; 2018 RantauOne</p></v-flex>
       

@@ -17,41 +17,40 @@
 import TopNav from '@/components/TopNav'
 import MobileMenu from '@/components/MobileMenu'
 import Hero from '@/components/Hero'
-import SectionPainpoint from '@/components/SectionPainpoint'
+import Painpoint from '@/components/SectionPainpoint'
 import Products from '@/components/SectionProducts'
 import Demo from '@/components/SectionDemo'
 import Consulting from '@/components/SectionConsulting'
 import Footer from '@/components/SectionFooter'
-import popup from '@/components/popup'
 
 export default {
   data () {
     return {
       menu: [
         {
-          name: 'home',
-          href: '#home'
+          name: 'Home',
+          href: '#Home'
         },
         {
-          name: 'about',
-          href: '#about'
+          name: 'About',
+          href: '#About'
         },
         {
-          name: 'screenshot',
-          href: '#screenshot'
+          name: 'Screenshot',
+          href: '#Screenshot'
         },
         {
-          name: 'pricing',
-          href: '#pricing'
+          name: 'Pricing',
+          href: '#Pricing'
         },
         {
-          name: 'newslatter',
-          href: '#newslatter'
+          name: 'Newslatter',
+          href: '#earthworks'
         },
         {
-          name: 'contact',
+          name: 'Contact',
           href: '#contact'
-        },
+        }
       ]
     }
   },
@@ -61,10 +60,10 @@ export default {
     'mobile-menu': MobileMenu,
     'hero': Hero,
     'products': Products,
+    'painpoint': Painpoint,
     'consulting': Consulting,
     'demo': Demo,
-    'ic-footer': Footer,
-    'popup':popup
+    'ic-footer': Footer
   }
 }
 </script>
