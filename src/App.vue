@@ -40,10 +40,6 @@ export default {
           href: '#Screenshot'
         },
         {
-          name: 'Pricing',
-          href: '#Pricing'
-        },
-        {
           name: 'Newslatter',
           href: '#earthworks'
         },
