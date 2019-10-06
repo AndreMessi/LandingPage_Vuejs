@@ -1,7 +1,11 @@
 
+
 ``` bash
 # install dependencies
 npm install
+
+#install package
+npm install -g vue-cli
 
 # serve with hot reload at localhost:8080
 npm run dev
@@ -17,4 +21,10 @@ npm run unit
 
 # run all tests
 npm test
-```
+
+#port local
+local host : 8080
+
+#share link profil
+npm install vue-social-sharing --save
+
