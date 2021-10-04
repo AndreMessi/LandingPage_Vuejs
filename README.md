@@ -1,3 +1,8 @@
+```install nodejs
+https://nodejs.org/en/download/
+
+``` install vuejs
+https://vuejs.org/v2/guide/installation.html
 
 ``` bash
 # install dependencies
